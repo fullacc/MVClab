@@ -1,0 +1,269 @@
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ApplicationInsights.config
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\csc.exe
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\csc.exe.config
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\csc.rsp
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\csi.exe
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\csi.rsp
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\System.AppContext.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\System.Collections.Immutable.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\System.IO.FileSystem.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\vbc.exe
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\vbc.exe.config
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\vbc.rsp
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\VBCSCompiler.exe
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\roslyn\VBCSCompiler.exe.config
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\AspNetDemoProject.dll.config
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\AspNetDemoProject.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\AspNetDemoProject.pdb
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Antlr3.Runtime.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.Web.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.WindowsServer.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.ApplicationInsights.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Newtonsoft.Json.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Net.Http.Formatting.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Helpers.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Http.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Http.WebHost.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Mvc.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Optimization.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Razor.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.WebPages.Deployment.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.WebPages.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.WebPages.Razor.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\WebGrease.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Helpers.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Mvc.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Optimization.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Razor.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.WebPages.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.WebPages.Deployment.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.WebPages.Razor.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Antlr3.Runtime.pdb
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Newtonsoft.Json.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Net.Http.Formatting.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Http.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Http.WebHost.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.ApplicationInsights.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.WindowsServer.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.Web.xml
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.Helpers.resources.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.Mvc.resources.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.Optimization.resources.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.Razor.resources.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.WebPages.resources.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.Http.resources.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\obj\Debug\AspNetDemoProject.csprojResolveAssemblyReference.cache
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\obj\Debug\AspNetDemoProject.dll
+c:\users\айбек каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\obj\Debug\AspNetDemoProject.pdb
+C:\Users\Айбек Каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\EntityFramework.dll
+C:\Users\Айбек Каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Айбек Каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\EntityFramework.xml
+C:\Users\Айбек Каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Айбек Каратаев\documents\visual studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ru\EntityFramework.resources.dll
+C:\Users\Айбек Каратаев\Documents\Visual Studio 2017\Projects\AspNetDemoProject\AspNetDemoProject\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\obj\Debug\AspNetDemoProject.csprojResolveAssemblyReference.cache
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\obj\Debug\AspNetDemoProject.csproj.CoreCompileInputs.cache
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\obj\Debug\AspNetDemoProject.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\obj\Debug\AspNetDemoProject.pdb
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ApplicationInsights.config
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\csc.exe
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\csc.exe.config
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\csc.rsp
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\csi.exe
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\csi.rsp
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\System.AppContext.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\vbc.exe
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\vbc.exe.config
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\vbc.rsp
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\AspNetDemoProject.dll.config
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\AspNetDemoProject.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\AspNetDemoProject.pdb
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Antlr3.Runtime.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\EntityFramework.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\EntityFramework.SqlServer.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.Web.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Newtonsoft.Json.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Net.Http.Formatting.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Helpers.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Http.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Http.WebHost.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Mvc.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Optimization.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Razor.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.WebPages.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\WebGrease.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\EntityFramework.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\EntityFramework.SqlServer.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Helpers.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Mvc.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Optimization.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Razor.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.WebPages.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Antlr3.Runtime.pdb
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Newtonsoft.Json.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Net.Http.Formatting.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Http.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\System.Web.Http.WebHost.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\Microsoft.AI.Web.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ru\EntityFramework.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.Razor.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.Http.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject\AspNetDemoProject\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ApplicationInsights.config
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\csc.exe
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\csc.exe.config
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\csc.rsp
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\csi.exe
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\csi.rsp
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\System.AppContext.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\vbc.exe
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\vbc.exe.config
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\vbc.rsp
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\AspNetDemoProject.dll.config
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\AspNetDemoProject.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\AspNetDemoProject.pdb
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Antlr3.Runtime.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\EntityFramework.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\EntityFramework.SqlServer.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.AI.Web.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Newtonsoft.Json.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Net.Http.Formatting.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.Helpers.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.Http.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.Http.WebHost.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.Mvc.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.Optimization.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.Razor.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.WebPages.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\WebGrease.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\EntityFramework.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\EntityFramework.SqlServer.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.Helpers.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.Mvc.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.Optimization.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.Razor.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.WebPages.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Antlr3.Runtime.pdb
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Newtonsoft.Json.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Net.Http.Formatting.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.Http.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\System.Web.Http.WebHost.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\Microsoft.AI.Web.xml
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ru\EntityFramework.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ru\System.Web.Razor.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ru\System.Web.Http.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\obj\Debug\AspNetDemoProject.csprojResolveAssemblyReference.cache
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\obj\Debug\AspNetDemoProject.csproj.CoreCompileInputs.cache
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\obj\Debug\AspNetDemoProject.dll
+C:\Users\пашнп\Desktop\university\mcsft.net\Новая папка (4)\AspNetDemoProject — копия\AspNetDemoProject\obj\Debug\AspNetDemoProject.pdb
